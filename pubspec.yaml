@@ -1,0 +1,20 @@
+name: vph_calendar
+description: Flutter Calendar is used to display and manipulate events with advanced features.
+version: 0.0.1
+homepage: https://github.com/ngocvuphan/flutter_calendar
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  vph_common_widgets: ^0.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
